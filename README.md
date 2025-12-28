@@ -117,5 +117,3 @@ Seeking **Summer 2025 internships** in **Machine Learning Engineering**, **SDE**
 * **System Design:** Architecting low-latency backend systems and microservices.
 * **Applied ML:** Deploying models to production and optimizing inference pipelines.
 * **Scientific Computing:** Bridging chemical datasets with computational heuristics.
-
-![](https://visitcount.itsvg.in/api?id=sangerforcode\&icon=0\&color=0)
