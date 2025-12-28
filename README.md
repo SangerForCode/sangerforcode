@@ -1,3 +1,4 @@
+![GitHub Header Banner](github-header-banner.png)
 ## Hi there 👋
 
 # I am Ayush Sanger — Dual Degree Student (B.E Mathematics And Computing + Msc. Chemistry) @ BITS Pilani
