@@ -1,8 +1,8 @@
 ![GitHub Header Banner](github-header-banner.png)
 
-### Dual Degree Student (B.E Mathematics And Computing + Msc. Chemistry) @ BITS Pilani
+### I am Ayush Sanger — Dual Degree Student (B.E Mathematics And Computing + Msc. Chemistry) @ BITS Pilani
 
-> **Machine Learning & Full-Stack Engineer with a strong mathematics foundation, focused on scalable systems and data-driven products.**
+> **Machine Learning & Full-Stack Engineer with a strong mathematics foundation, leveraging a background in chemistry to build scalable systems and data-driven products.**
 
 ---
 
@@ -20,24 +20,32 @@
 #### 📈 Algorithmic Trading & Finance
 **[Live Trading Bot & Backtesting Engine](https://github.com/SangerForCode/live-trading-BOT)**
 *Python, Shoonaya API, Pandas*
-* Designed an automated trading system that executes live trades based on technical indicators.
+* Designed an automated trading system executing live trades based on technical indicators, reducing manual decision latency and enabling rule-based risk control.
 * Built a custom backtesting engine to simulate strategy performance against historical market data.
+* *Focused on strategy simulation, data pipelines, and execution reliability.*
 
-#### 🤖 AI & Generative Applications
-**[AI Content Clipper](https://github.com/SangerForCode/Clip-maker)** *(Private Repo - Ask for Demo)*
-*Python, FFmpeg, OpenAI API*
-* Developed a tool to automatically ingest long-form video content and extract viral-worthy short clips using AI-driven sentiment analysis and topic segmentation.
-
-#### ☁️ Cloud & Infrastructure
-**[Serverless AWS Deployment](https://github.com/SangerForCode/awssite)**
-*TypeScript, AWS Lambda, API Gateway*
-* Deployed a full-stack application using AWS cloud infrastructure, ensuring scalability and low-latency access.
-
-#### 🛍️ Campus Startup
+#### 🛍️ Campus Startup (Scale & Product)
 **[BITS Student Store](https://github.com/SangerForCode/business-site)**
 *React, Node.js, Firebase*
-* Co-founded the official resale marketplace for BITS Pilani (3 Campuses).
-* Handling **~300k requests/12 days** and serving **7,600+ users**.
+* Engineered a high-frequency resale platform handling **~300k requests/12 days**, solving logistics and inventory management for **7,600+ users**.
+* Optimized database queries to handle peak traffic loads during campus events.
+
+#### 🤖 AI & Generative Applications
+**[AI Content Clipper](https://github.com/SangerForCode/Clip-maker)** *(Private repository; demo available on request)*
+*Python, FFmpeg, OpenAI API*
+* Developed a pipeline to ingest long-form video content and extract viral-worthy short clips using AI-driven sentiment analysis and topic segmentation.
+
+#### 🧪 Scientific Machine Learning (Chemistry + AI)
+**[ML for Green Hydrogen Catalysts](https://github.com/SangerForCode/ML-Water-Splitting-Catalysis)**
+*Python, Scikit-Learn, Pandas, Materials Informatics*
+* Applied machine learning algorithms to predict the efficiency of electrocatalysts for water splitting (Green Hydrogen generation).
+* Analyzed complex crystallographic data (Octahedral/Tetrahedral geometries) to correlate structural features with electrochemical stability.
+* *Demonstrates application of data science to accelerate material discovery.*
+
+#### ☁️ Cloud & Infrastructure
+**[AWS Deployment](https://github.com/SangerForCode/awssite)**
+*TypeScript, AWS Lambda, API Gateway*
+* Architected a serverless full-stack deployment using AWS cloud infrastructure, ensuring sub-100ms latency and auto-scaling capabilities.
 
 ---
 
