@@ -108,11 +108,5 @@ Seeking **Summer 2025 internships** in **Machine Learning Engineering**, **SDE**
 
 ## 🔍 Current Focus
 
-- **Data Structures & Algorithms**  
-  Building strong problem-solving skills with an interview-first approach, focusing on patterns, complexity analysis, and clean implementations.
-
-- **System Design (Foundational)**  
-  Learning to design scalable, low-latency backend systems, covering databases, caching, concurrency, and microservices basics.
-
-- **Mathematics for Computer Science**  
-  Strengthening foundations in discrete math, linear algebra, probability, and optimization to support systems and ML-driven engineering.
+* **System Design (Foundational)** - Learning to design scalable, low-latency backend systems, covering databases, caching, concurrency, and microservices basics.
+* **Mathematics for Computer Science** - Strengthening foundations Maths and Optimization to support ML&AI-driven engineering.
