@@ -29,8 +29,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sangerforcode\&theme=dark\&include_all_commits=true\&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangerforcode\&theme=dark\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sangerforcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sangerforcode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangerforcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🎯 What I’m Looking For
 
