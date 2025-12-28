@@ -54,7 +54,3 @@
 ### 🎯 What I’m Looking For
 
 Seeking **Summer 2025 internships** in **Machine Learning / Data Science**, **SDE/SWE**, or **Full-Stack / Product Engineering** roles. Open to remote and on-site opportunities.
-
----
-
-![](https://visitcount.itsvg.in/api?id=sangerforcode\&icon=0\&color=0)
