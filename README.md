@@ -1,14 +1,12 @@
 ![GitHub Header Banner](github-header-banner.png)
 
-### Dual Degree Student (B.E Mathematics And Computing + Msc. Chemistry) @ BITS Pilani
+## Dual Degree Student (B.E Mathematics And Computing + Msc. Chemistry) @ BITS Pilani
 
-> **Machine Learning & Full-Stack Engineer with a strong mathematics foundation, leveraging a background in chemistry to build scalable systems and data-driven products.**
 > **Machine Learning & Full-Stack Engineer with a strong mathematics foundation, leveraging a background in chemistry to build scalable systems and data-driven products.**
 
 ---
 
-### 🚀 Snapshot & Leadership
-### 🚀 Snapshot & Leadership
+## 🚀 Snapshot & Leadership
 
 * **Co-founder, BITS Student Store**
   Official resale marketplace for BITS Pilani, scaled across **3 campuses**, serving **7,600+ users** and handling **~300,000 requests every 12 days**.
@@ -17,36 +15,36 @@
 
 ---
 
-### 🧠 Featured Projects
+## 🧠 Featured Projects
 
-#### 📈 Algorithmic Trading & Finance
+### 📈 Algorithmic Trading & Finance
 **[Live Trading Bot & Backtesting Engine](https://github.com/SangerForCode/live-trading-BOT)**
 *Python, Shoonaya API, Pandas*
 * Architected an automated trading system executing live trades based on technical indicators, optimizing for execution speed and fault tolerance.
 * Engineered a custom backtesting engine to accelerate strategy validation against large historical datasets.
 * *Focus: Event-driven architecture, risk management pipelines, and API reliability.*
 
-#### 🛍️ Campus Startup (Scale & Product)
+### 🛍️ Campus Startup (Scale & Product)
 **[BITS Student Store](https://github.com/SangerForCode/business-site)**
 *React, Node.js, Firebase*
 * Engineered a high-frequency resale platform handling **~300k requests/12 days**, solving logistics and inventory concurrency for **7,600+ users**.
 * Optimized NoSQL database queries and indexing strategies to maintain performance during high-traffic campus events.
 
-#### 🧪 Scientific Machine Learning
+### 🧪 Scientific Machine Learning
 **[ML for Green Hydrogen Catalysts](https://github.com/SangerForCode/ML-Water-Splitting-Catalysis)**
 *Python, Scikit-Learn, Pandas, Materials Informatics*
 * Applied regression models to predict electrocatalyst efficiency for Green Hydrogen generation, bridging chemical theory with computational heuristics.
 * Analyzed complex crystallographic data to correlate structural features with electrochemical stability.
 * *Focus: Feature engineering on high-dimensional scientific data.*
 
-#### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 **[Serverless AWS Deployment](https://github.com/SangerForCode/awssite)**
 *TypeScript, AWS Lambda, API Gateway*
 * Deployed a serverless full-stack application using AWS infrastructure, optimizing for low-latency edge caching and auto-scaling cost efficiency.
 
 ---
 
-### ⚔️ Core Tech Stack
+## ⚔️ Core Tech Stack
 *The tools I use daily to build production-grade software.*
 
 **Languages & ML**
@@ -80,9 +78,6 @@
 **DevOps & Cloud**
 <br/>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-**DevOps & Cloud**
-<br/>
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Tools, Design & Misc**
 <br/>
@@ -91,7 +86,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/ayushsanger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/sanger_ayush)
@@ -99,21 +94,20 @@
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sangerforcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sangerforcode&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangerforcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🎯 What I’m Looking For
-### 🎯 What I’m Looking For
+## 🎯 What I’m Looking For
 
 Seeking **Summer 2025 internships** in **Machine Learning Engineering**, **SDE**, or **Full-Stack Engineering**, where I can work on scalable systems and data-driven products. Open to remote and on-site opportunities.
 
 ---
 
-### 🔍 Current Focus
+## 🔍 Current Focus
 * **System Design:** Architecting low-latency backend systems and microservices.
 * **Applied ML:** Deploying models to production and optimizing inference pipelines.
 * **Scientific Computing:** Bridging chemical datasets with computational heuristics.
+![](https://visitcount.itsvg.in/api?id=sangerforcode\&icon=0\&color=0)
