@@ -24,22 +24,22 @@
 * Engineered a custom backtesting engine to accelerate strategy validation against large historical datasets.
 * *Focus: Event-driven architecture, risk management pipelines, and API reliability.*
 
-### 🛍️ Campus Startup (Scale & Product)
+### 🛍️ BITS-PILANI.STORE : Campus Peer-TO-Peer Exchange Platform (Scale & Product)
 **[BITS Student Store](https://github.com/SangerForCode/business-site)**
-*React, Node.js, Firebase*
+*React, AWS , Django, Sqlite*
 * Engineered a high-frequency resale platform handling **~300k requests/12 days**, solving logistics and inventory concurrency for **7,600+ users**.
 * Optimized NoSQL database queries and indexing strategies to maintain performance during high-traffic campus events.
 
 ### 🧪 Scientific Machine Learning
 **[ML for Green Hydrogen Catalysts](https://github.com/SangerForCode/ML-Water-Splitting-Catalysis)**
-*Python, Scikit-Learn, Pandas, Materials Informatics*
+*Python, Scikit-Learn, Pandas, Materials Informatics, ChemPy*
 * Applied regression models to predict electrocatalyst efficiency for Green Hydrogen generation, bridging chemical theory with computational heuristics.
 * Analyzed complex crystallographic data to correlate structural features with electrochemical stability.
 * *Focus: Feature engineering on high-dimensional scientific data.*
 
 ### ☁️ Cloud & Infrastructure
 **[Serverless AWS Deployment](https://github.com/SangerForCode/awssite)**
-*TypeScript, AWS Lambda, API Gateway*
+*TypeScript, AWS, API Gateway*
 * Deployed a serverless full-stack application using AWS infrastructure, optimizing for low-latency edge caching and auto-scaling cost efficiency.
 
 ---
@@ -107,7 +107,12 @@ Seeking **Summer 2025 internships** in **Machine Learning Engineering**, **SDE**
 ---
 
 ## 🔍 Current Focus
-* **System Design:** Architecting low-latency backend systems and microservices.
-* **Applied ML:** Deploying models to production and optimizing inference pipelines.
-* **Scientific Computing:** Bridging chemical datasets with computational heuristics.
-![](https://visitcount.itsvg.in/api?id=sangerforcode\&icon=0\&color=0)
+
+- **Data Structures & Algorithms**  
+  Building strong problem-solving skills with an interview-first approach, focusing on patterns, complexity analysis, and clean implementations.
+
+- **System Design (Foundational)**  
+  Learning to design scalable, low-latency backend systems, covering databases, caching, concurrency, and microservices basics.
+
+- **Mathematics for Computer Science**  
+  Strengthening foundations in discrete math, linear algebra, probability, and optimization to support systems and ML-driven engineering.
