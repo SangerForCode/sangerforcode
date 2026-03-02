@@ -25,7 +25,7 @@
 * *Focus: Event-driven architecture, risk management pipelines, and API reliability.*
 
 ### 🛍️ BITS-PILANI.STORE : Campus Peer-TO-Peer Exchange Platform (Scale & Product)
-**[BITS Student Store](https://github.com/SangerForCode/business-site)**
+**[BITS Student Store][Closed Source]**
 *React, AWS , Django, Sqlite*
 * Engineered a high-frequency resale platform handling **~300k requests/12 days**, solving logistics and inventory concurrency for **7,600+ users**.
 * Optimized NoSQL database queries and indexing strategies to maintain performance during high-traffic campus events.
