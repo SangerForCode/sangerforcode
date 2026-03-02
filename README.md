@@ -11,7 +11,8 @@
 * **Co-founder, BITS Student Store**
   Official resale marketplace for BITS Pilani, scaled across **3 campuses**, serving **7,600+ users** and handling **~300,000 requests every 12 days**.
 * **Founder, BITS Goa Sports Club**
-  Built and led the campus sports ecosystem, **pioneering 9+ sports clubs** and driving large-scale student engagement.
+  Built and led the campus sports ecosystem, **pioneering 9+ sports clubs** and driving large-scale student engagement. 2.7k students participated in events conducted by BGSC.
+  Pioneering a **Indie Game dev studio** at BITS PILANI. Made sports , esports and fitness accessible to all.
 
 ---
 
